@@ -1,0 +1,30 @@
+[
+    {
+        "nim" : 8040170092,
+        "nama" : "Prasetiyo",
+        "faklutas" : "Computer Science",
+        "programStudi" : "Sistem Informasi",
+        "statusKelulusan" : true,
+        "OrganisasiKemahasiswaan" : [
+            "Multimedia", "Robotik"
+        ],
+        "pembimbing" : {
+            "pembimbing1" : "Nurhadi",
+            "pembimbing2" : "Ali Sadikin"
+        }
+    },
+    {
+        "nim" : 8040170093,
+        "nama" : "Diana",
+        "faklutas" : "Computer Science",
+        "programStudi" : "Teknik Informatika",
+        "statusKelulusan" : true,
+        "OrganisasiKemahasiswaan" : [
+            "Multimedia", "Jurnalistik"
+        ],
+        "pembimbing" : {
+            "pembimbing1" : "Agus Siswanto",
+            "pembimbing2" : "Afrizal Nehemia Toscany"
+        }
+    }
+]
