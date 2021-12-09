@@ -10,6 +10,12 @@ Port : 5432
 - DB_USER = U0azgSj5kO
 - DB_PASS = 2SfBZ891Bi
 
+### Db4free.net
+host: 'db4free.net',
+user: 'prasetiyo',
+password: 'Mysql365',
+database: 'prasetiyo_blog'
+
 ### Mysql Localhost
 - DB_HOST = localhost
 - DB_NAME = usermanagement
