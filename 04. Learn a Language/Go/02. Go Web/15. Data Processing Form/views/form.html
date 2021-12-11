@@ -1,0 +1,17 @@
+{{ template "layout" . }}
+{{ define "main" }}
+<div class="container mt-4">
+    <form action="process" method="POST">
+        <div class="mb-3">
+            <label for="exampleInputEmail1" class="form-label">Nama</label>
+            <input type="" name="name" class="form-control" id="" aria-describedby="" placeholder="Nama" required>
+        </div>
+        <div class="mb-3">
+            <label for="exampleInputPassword1" class="form-label">Pesan</label>
+            <input type="" name="message" class="form-control" id="" placeholder="Tulis Pesan" required>
+        </div>
+        <button type="submit" value="kirim" class="btn btn-primary">Submit</button>
+    </form>
+</div>
+
+{{ end }}

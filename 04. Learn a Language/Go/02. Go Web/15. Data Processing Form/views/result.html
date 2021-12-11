@@ -1,0 +1,10 @@
+{{ template "layout" . }}
+
+{{ define "main"}}
+<div class="container mt-4">
+    <div class="container mt-4">
+        <h4>Message From : {{ .name }}</h4>
+        <p>{{ .message }}</p>
+    </div>
+</div>
+{{ end }}

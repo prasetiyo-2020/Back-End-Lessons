@@ -1,0 +1,117 @@
+{
+  "openapi": "3.0.2",
+  "info": {
+    "title": "API ToDoList",
+    "version": "1.0",
+    "contact": {
+      "name": "Prasetiyo",
+      "email": "prasetiyo2020@yahoo.com"
+    },
+    "description": "API untuk mengatur data kegiatan sehari-hari"
+  },
+  "servers": [
+    {
+      "url": "https://api.server.test/v1",
+      "description" : "Server 1"
+    },
+    {
+      "url": "https://api.server.production/v1",
+      "description" : "Server 2"
+    }
+  ],
+  "paths": {
+    "/todo": {
+      "get": {
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "post":{
+        "requestBody":{
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": object,
+                "properties" : {
+                  "id": {
+                    "type": "integer"
+                  },
+                  "nama": {
+                    "type": "string"
+                  },
+                  "tanggal": {
+                    "type": "string",
+                    "format": "date"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+            "application/json": {
+              "schema": {
+                "type": object,
+                "properties" : {
+                  "code": {
+                    "type": "integer",
+                    "example": 200
+                  },
+                  "nama": {
+                    "type": "string",
+                    "example": "Main bola"
+                  },
+                  "tanggal": {
+                    "type": "string",
+                    "format": "date"
+                    "example": "22 Nov 2021"
+                  }
+                }
+              }
+            }
+          }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+            "application/json": {
+              "schema": {
+                "type": object,
+                "properties" : {
+                  "code": {
+                    "type": "integer",
+                    "example": 200
+                  },
+                  "nama": {
+                    "type": "string",
+                    "example": "Main bola"
+                  },
+                  "tanggal": {
+                    "type": "string",
+                    "format": "date"
+                    "example": "22 Nov 2021"
+                  }
+                }
+              }
+            }
+          }
+          },
+          "400": {
+            "description": "Bad Request",
+            "content": {
+              
+            }
+          }
+        }
+      }
+    }
+  }
+}

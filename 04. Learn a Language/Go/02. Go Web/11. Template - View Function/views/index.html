@@ -1,0 +1,9 @@
+{{ template "layout" . }}
+{{ define "main" }}
+
+{{ range . }}
+<div class="container mt-4">
+    {{.Name}} - {{.Price}} - <span class="red"> {{.StockProduct}}</span> 
+</div>
+{{ end }}
+{{ end }}
