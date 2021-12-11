@@ -1,0 +1,5 @@
+app.get('/logout', (req, res) => {
+    req.session.destroy(error => {
+        res.redirect('/list');
+    });
+});
