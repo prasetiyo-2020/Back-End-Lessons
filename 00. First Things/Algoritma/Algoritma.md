@@ -13,5 +13,39 @@ Adanya alur yang jelas yang dimiliki oleh algoritma pemrograman, Anda dapat deng
 ## Cara Kerja Algoritma
 - Komputer hanyalah salah satu pemroses. Agar dapat dilaksanakan oleh komputer, algoritma harus ditulis dalam notasi bahasa pemrograman sehingga dinamakan program. Jadi program adalah perwujudan atau implementasi teknis algoritma yang ditulis dalam bahasa pemrograman tertentu sehingga dapat dilaksanakan oleh komputer. Kata “algoritma” dan “program” seringkali dipertukarkan dalam penggunaannya.
 
+## Jenis-Jenis Algoritma
+### Algoritma sederhana
+Algoritma sederhana, merupakan algoritma yang dimana dalam penyelesaian masalah menggunakan bahasa yang universal atau dipahami manusia.
+<br><br>
+<b>Algoritma memasak telur rebus</b>
+Analisis :
+- Siapkan telur, air
+- Siapkan kompor siap pakai, panci
+Algoritma :
+- Letakan panci di atas kompor
+- Masukan air ke dalam panci
+- Nyalakan kompor
+- Tunggu air hingga mendidih
+- Masukan telur ke dalam panci
+- Tunggu hingga telur matang sempurna
+- Matikan kompor
+- Tiriskan Telur rebus
+- Selesai
+
+
+### Algoritma psuedocode
+Algoritma psuedocode ini merupakan algorima yang dimana dalam penyelesaian masalah menggunakan bahasa code namun masih cukup baik untuk dipahami oleh manusia.
+- Letakan panci di atas kompor
+- Input air ke dalam panci
+- Input api kompor
+- Tunggu air hingga mendidih
+- Input telur ke dalam panci
+- If telur matang sempurna
+  - Matikan kompor
+  - Tiriskan Telur
+- Selesai
+
+- Flowchart
+
 ## References :
 - https://idcloudhost.com/algoritma-pemrograman-pengertian-fungsi-cara-kerja-dan-contohnya/#Mengenal_Pengertian_Algoritma
