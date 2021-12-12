@@ -1,0 +1,55 @@
+# Linux Commands
+- [ ] man <perintah> untuk meilhat panduan
+- [ ] <perintah> –help untuk panduan ringkas
+- [ ] sudo untuk super user
+- [x] ls untuk melihat direktori
+- [x] cd untuk masuk ke direktori
+- [ ] mkdir <nama folder> untuk membuat folder
+- [x] pwd untuk melihat direktori aktif
+- [ ] vim untuk membuka text editor
+- [x] cp <asal> <tujuan> untuk menyalin file
+- [x] mv <asal> <tujuan> untuk memindahkan folder
+- [x] rm <file> untuk menghapus file
+- [ ] find <nama file> untuk mencari file
+- [ ] history untuk melihat riwayat
+- [ ] cat untuk melihat isi file
+- [ ] echo untuk menampilkan baris teks
+- [ ] grep untuk mencari kata
+- [ ] wc untuk menampilkan baris baru
+- [ ] sort untuk mengurutkan
+- [ ] chmod untuk mengganti hak akses
+- [ ] chown mengganti hak milik
+- [ ] su untuk mengganti user id
+- [ ] passwd untuk mengganti password
+- [ ] who untuk menampilkan user
+- [ ] ps untuk menampilkan snapshot
+- [ ] kill untuk menghentikan program
+- [ ] tar untuk mengumpulkan file
+- [ ] zip untuk mengkompres file
+- [ ] unzip untuk mengekstrak file
+- [ ] ssh untuk akses jarak jauh
+- [ ] scp untuk menyalin file
+- [ ] fdisk untuk menampilkan partisi
+- [ ] mount untuk melampirkan file
+- [ ] umount untuk melakukan unmount
+- [ ] du untuk menampilkan ukuran file
+- [ ] df untuk menampilkan disk space
+- [ ] quota menampilkan sisa disk space
+- [ ] reboot untuk mulai ulang
+- [ ] poweroff untuk mematikan
+- [ ] gedit untuk membuka editor teks
+- [ ] kate untuk membuka teks editor
+- [ ] bg membuat proses background
+- [ ] fg <id program> membuat proses foreground
+- [ ] jobs <id program> menampilkan identitas proses
+- [ ] sed untuk melakukan filter teks
+- [ ] awk untuk memindahkan teks
+- [ ] locate untuk mencari file
+- [ ] ifconfig untuk melihat ip
+- [ ] date untuk menampilkan tanggal
+- [ ] nano merubah teks editor
+- [ ] top melihat proses secara urut
+- [ ] clear membersihkan terminal
+- [ ] dpkg -i <namapackage>.deb instalasi paket
+- [ ] uname melihat versi kernel
+- [ ] * untuk mencantumkan deskripsi
