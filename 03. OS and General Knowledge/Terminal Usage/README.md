@@ -15,7 +15,7 @@
 ## Create File
 ``` touch "file_name.extension"```
 <br><br>
-![Screenshot (707)](https://user-images.githubusercontent.com/84963363/145703830-1890b031-e1e8-4a84-9c13-979112361c85.png)
+![145703830-1890b031-e1e8-4a84-9c13-979112361c85](https://user-images.githubusercontent.com/84963363/145704483-883d2061-6df9-4433-b464-d39c63b14426.png)
 
 
 ## Current Place
@@ -33,32 +33,38 @@
 ## Copy File
 ``` $ cp file_name new_filename ```
 <br><br>
-![Screenshot (616)](https://user-images.githubusercontent.com/84963363/142769910-c848557e-6c56-41c3-a80e-cae75b7a1184.png)
+![Screenshot (710)](https://user-images.githubusercontent.com/84963363/145704136-886ebd53-c3af-4e2c-9d7c-c7fd914928b5.png)
+
 
 ## Copy Directory
 ``` $ cp -r directory_name new_directoryname ```
 <br><br>
-![Screenshot (617)](https://user-images.githubusercontent.com/84963363/142769992-b60fce75-a98b-4cfa-90e6-e68d73d15e23.png)
+![Screenshot (711)](https://user-images.githubusercontent.com/84963363/145704365-316431dd-2ca7-467f-8eba-20aa5f0346c7.png)
+
 
 ## Remove File
 ``` rm file_name ```
 <br><br>
-![Screenshot (618)](https://user-images.githubusercontent.com/84963363/142770075-b07effa2-dec1-4ada-b735-8a37d1b1152d.png)
+![Screenshot (712)](https://user-images.githubusercontent.com/84963363/145704372-281eefc0-8f6e-4204-9614-b2563a4c6d1e.png)
 
 ## Remove Folder
 ``` rm -r folder_name ```
 <br><br>
-![Screenshot (619)](https://user-images.githubusercontent.com/84963363/142770131-31d145a0-683c-4d11-8d58-903707a7c49c.png)
+![Screenshot (713)](https://user-images.githubusercontent.com/84963363/145704378-4f4dcba4-8b47-4114-b209-8970cd38210a.png)
 
 ## Change File Name or Directory Name
 ``` $ mv file_name new_filename ```
 <br><br>
-![Screenshot (620)](https://user-images.githubusercontent.com/84963363/142770323-c69c98a2-c23e-4da6-88d6-65418d779fc3.png)
+![Screenshot (714)](https://user-images.githubusercontent.com/84963363/145704393-fa856bfe-1df0-4bc1-ad76-0f9eec4f6df1.png)
+![Screenshot (715)](https://user-images.githubusercontent.com/84963363/145704397-09990287-c995-40a8-81bb-dc9e62f9beaa.png)
+
+
 
 ## Change File Location or Directory Location
 ``` $ mv file_to_be_moved directory_name ```
 <br><br>
-![Screenshot (621)](https://user-images.githubusercontent.com/84963363/142770427-a7d5535e-4462-438f-a1c9-87896c5b64bf.png)
+![Screenshot (716)](https://user-images.githubusercontent.com/84963363/145704410-809567e3-120b-4330-b744-29b536ee0072.png)
+
 
 ## Open files
 
