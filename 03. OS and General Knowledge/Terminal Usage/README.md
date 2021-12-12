@@ -3,28 +3,32 @@
 ## Change Directory
 ``` $ cd "path/to/directory/ ```
 <br><br>
-![Screenshot (612)](https://user-images.githubusercontent.com/84963363/142769407-d819c64c-e175-4291-8d30-55c45ea8fbd7.png)
+![Screenshot (705)](https://user-images.githubusercontent.com/84963363/145703633-56f77260-f398-4c8e-91b5-6e6e35989027.png)
 
 
 ## Listing Directory
 ``` $ ls ```
 <br><br>
-![Screenshot (611)](https://user-images.githubusercontent.com/84963363/142769335-67ec559f-8f7e-4794-9d35-b6c51520de3f.png)
+![Screenshot (706)](https://user-images.githubusercontent.com/84963363/145703715-e5aa998b-2029-4708-829e-3caffe35fda2.png)
+
 
 ## Create File
 ``` touch "file_name.extension"```
 <br><br>
-![Screenshot (613)](https://user-images.githubusercontent.com/84963363/142769601-36c14d44-6996-4a42-80f7-1a4d1abaf584.png)
+![Screenshot (707)](https://user-images.githubusercontent.com/84963363/145703830-1890b031-e1e8-4a84-9c13-979112361c85.png)
+
 
 ## Current Place
 ``` $ pwd ```
 <br><br>
-![Screenshot (614)](https://user-images.githubusercontent.com/84963363/142769680-afea90e4-0823-4433-9059-bc097b7fe159.png)
+![Screenshot (708)](https://user-images.githubusercontent.com/84963363/145703879-3e3e4e4f-ed15-408e-947b-1a5bff8cb1b8.png)
+
 
 ## Go back one directory
 ``` $ cd .. ```
 <br><br>
-![Screenshot (615)](https://user-images.githubusercontent.com/84963363/142769774-cbff7f21-84db-46a3-ba7a-cb726e84f802.png)
+![Screenshot (709)](https://user-images.githubusercontent.com/84963363/145704058-98296b66-c721-4df6-b66c-f59e1d88ced1.png)
+
 
 ## Copy File
 ``` $ cp file_name new_filename ```
