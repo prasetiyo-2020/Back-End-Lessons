@@ -1,4 +1,4 @@
-# Commands
+# Terminal Usage
 
 ## Current Place
 Perintah ini digunakan untuk mengetahui dimana saat ini kita berada, perintah ini menunjukan path dari awal hingga saat ini kita berada. Perintah yang digunakan yaitu ``` $ pwd ```
