@@ -63,10 +63,13 @@ Perintah ini digunakan untuk membuat sebuah file melalui perintah di terminal. P
 ![Screenshot (713)](https://user-images.githubusercontent.com/84963363/145704378-4f4dcba4-8b47-4114-b209-8970cd38210a.png)
 
 
-## Change File Location or Directory Location
-``` $ mv file_to_be_moved directory_name ```
+## Move/Change File Location and Directory Location
+1. <b>Move/Change File Location</b>. Untuk memindahkan sebuah file bisa menggunakan perintah ``` $ mv file_name directory_name ```
 <br><br>
 ![Screenshot (716)](https://user-images.githubusercontent.com/84963363/145704410-809567e3-120b-4330-b744-29b536ee0072.png)
+
+2. <b>Move/Change Folder Location</b>. Untuk memindahkan sebuah folder bisa menggunakan perintah ``` $ mv folder_name folder_name ```
+![Screenshot (720)](https://user-images.githubusercontent.com/84963363/145705610-93f25a67-4399-4e22-9ea0-49e23f689ef3.png)
 
 
 ## Open files
