@@ -129,7 +129,7 @@ Read File : ```cat "file_name.extenson ```
 - [ ] date untuk menampilkan tanggal
 - [ ] nano merubah teks editor
 - [ ] top melihat proses secara urut
-- [ ] clear membersihkan terminal
+- [x] clear membersihkan terminal
 - [ ] dpkg -i <namapackage>.deb instalasi paket
 - [ ] uname melihat versi kernel
 - [ ] * untuk mencantumkan deskripsi
