@@ -1,11 +1,10 @@
-# ADD FILE
-
-## Add file
+# Menambah File
+## Menambah File Tertentu
 ``` 
 $ git add index.html
 ```
 
-## Add All files 
+## Menambah Semua File
 ``` 
 $ git add .
 ```
