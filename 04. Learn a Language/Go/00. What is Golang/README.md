@@ -32,5 +32,9 @@ Berikut merupakan beberapa framework milik bahasa pemrograman Go, diantaranya ad
 - Revel
 - Gocraft
 
+## Golang Roadmap
+![image](https://user-images.githubusercontent.com/84963363/145327166-a383301c-5475-43db-97c1-d7ffbcf4262c.png)
+
 ## Reference
 [1] https://www.sekawanmedia.co.id/belajar-golang/
+[2] https://roadmap.sh/golang
